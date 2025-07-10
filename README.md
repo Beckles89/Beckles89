@@ -28,7 +28,3 @@ The Home Detection Lab project aimed to establish a controlled environment for s
 - Security Information and Event Management (SIEM) system Splunk, for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Steps
-
-In Splunk I added Applications, System, & Security to my event log collections
