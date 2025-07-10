@@ -3,8 +3,6 @@
 My name is Matthew Beckles
 Im a motivated cybersecurity professional with a CompTIA Security+ certification, pursuing an Associate in Cybersecurity, and have strong leadership qualities.
 
-##Linkedin
-
 https://www.linkedin.com/in/matthew-beckles-881b51370/ 
 
 ## Objective
