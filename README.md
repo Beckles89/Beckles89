@@ -3,6 +3,10 @@
 My name is Matthew Beckles
 Im a motivated cybersecurity professional with a CompTIA Security+ certification, pursuing an Associate in Cybersecurity, and have strong leadership qualities.
 
+##Linkedin
+
+https://www.linkedin.com/in/matthew-beckles-881b51370/ 
+
 ## Objective
 
 The Home Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber-attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
