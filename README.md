@@ -6,7 +6,13 @@ Im a motivated cybersecurity professional with a CompTIA Security+ certification
 https://www.linkedin.com/in/matthew-beckles-881b51370/ 
 
 ## Certification
-<pre> ```html <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="710236c3-aa48-4b71-a094-08df5ac1fac9" data-share-badge-host="https://www.credly.com"></div> <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### 🎖️ Certification
+
+[![CompTIA Security+](https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/710236c3-aa48-4b71-a094-08df5ac1fac9/public_url)
+
+**CompTIA Security+**  
+[View Credential](https://www.credly.com/badges/710236c3-aa48-4b71-a094-08df5ac1fac9/public_url)
+
 
 ## Objective
 
