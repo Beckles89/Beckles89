@@ -17,9 +17,11 @@ The Home Detection Lab project aimed to establish a controlled environment for s
 
 ### Projects
 
--https://github.com/Beckles89/Building-a-subnet
+https://github.com/Beckles89/Building-a-subnet
 
--https://github.com/Beckles89/Creating-a-Honeypot
+https://github.com/Beckles89/Creating-a-Honeypot
+
+https://github.com/Beckles89/Setting-up-a-Firewall
 
 ### Skills Learned
 
