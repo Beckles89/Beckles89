@@ -15,6 +15,11 @@ https://www.linkedin.com/in/matthew-beckles-881b51370/
 
 The Home Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber-attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
+### Projects
+
+-https://github.com/Beckles89/Building-a-subnet
+-https://github.com/Beckles89/Creating-a-Honeypot
+
 ### Skills Learned
 
 - Understanding of SIEM concepts and practical application.
@@ -22,7 +27,6 @@ The Home Detection Lab project aimed to establish a controlled environment for s
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
-- https://github.com/Beckles89/Building-a-subnet 
 
 ### Tools Used
 
