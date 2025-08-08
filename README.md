@@ -25,6 +25,8 @@ https://github.com/Beckles89/Setting-up-a-Firewall
 
 https://github.com/Beckles89/Using-Wireshark
 
+https://github.com/Beckles89/Intrusion-Detection
+
 ### Skills Learned
 
 - Understanding of SIEM concepts and practical application.
