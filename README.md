@@ -27,6 +27,8 @@ https://github.com/Beckles89/Using-Wireshark
 
 https://github.com/Beckles89/Intrusion-Detection
 
+https://github.com/Beckles89/How-to-Analyze-Phishing-Emails
+
 ### Skills Learned
 
 - Understanding of SIEM concepts and practical application.
