@@ -10,6 +10,7 @@ https://www.linkedin.com/in/matthew-beckles-881b51370/
 **CompTIA Security+**  
 [View Credential](https://www.credly.com/badges/710236c3-aa48-4b71-a094-08df5ac1fac9/public_url)
 
+**Deloitte Australia - Cyber Job Simulation**
 <https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_68b5a94e2b2e7e70b94fddb4_1756739134387_completion_certificate.pdf>  
 
 ## Objective
