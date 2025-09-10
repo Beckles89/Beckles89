@@ -16,6 +16,9 @@ https://www.linkedin.com/in/matthew-beckles-881b51370/
 **mastercard - Cybersecurity Job Simulation**
 <https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68b5a94e2b2e7e70b94fddb4_1757025642549_completion_certificate.pdf>
 
+**Telstra AU - Cybersecurity Job Simulation**
+<https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/M6JGAwZ52SMusMEcK/RNhbu8QnDzthwynEf_M6JGAwZ52SMusMEcK_68b5a94e2b2e7e70b94fddb4_1757546293211_completion_certificate.pdf>
+
 ## Objective
 
 The Home Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber-attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
